@@ -1,4 +1,4 @@
-package com.example.killer.bottomsheetdialog;
+package com.omninous.killer.bottomsheetdialog;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

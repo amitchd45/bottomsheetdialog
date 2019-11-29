@@ -1,4 +1,4 @@
-package com.example.killer.bottomsheetdialog;
+package com.omninous.killer.bottomsheetdialog;
 
 import org.junit.Test;
 
